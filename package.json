@@ -9,5 +9,8 @@
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "noop3": "^13.8.0"
+  }
 }
