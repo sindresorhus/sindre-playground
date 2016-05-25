@@ -1,2 +1,2 @@
 'use strict';
-module.exports = false;
+module.exports = true;
