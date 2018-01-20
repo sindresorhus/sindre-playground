@@ -1,6 +1,9 @@
 {
+  "description": "Just me experimenting 🦄🦄",
+  "license": "MIT",
+  "repository": "sindresorhus/sindre-playground",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4"
   },
   "scripts": {
     "test": "xo && ava"
