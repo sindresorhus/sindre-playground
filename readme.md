@@ -1,3 +1,3 @@
 # sindre-playground
 
-Just me experimenting 🦄🦄🦄🦄🦄
+Just me experimenting 🦄🦄🦄🦄
