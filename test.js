@@ -5,7 +5,7 @@ import m from '.';
 test('unicorn', async t => {
 	await delay(300);
 	t.true(m);
-});
+})
 
 test('rainbow', async t => {
 	await delay(100);
