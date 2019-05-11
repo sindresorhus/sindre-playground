@@ -10,4 +10,4 @@ test('unicorn', async t => {
 test('rainbow', async t => {
 	await delay(100);
 	t.true(m);
-});
+})
