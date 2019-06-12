@@ -9,7 +9,7 @@
 	},
 	"scripts": {
 		"test": "ava",
-		"prepublishOnly": "replace-in-files --string='🦄' --replacement='🐴' readme.md"
+		"postversion": "replace-in-files --string='🦄' --replacement='🐴' readme.md"
 	},
 	"files": [
 		"index.js"
