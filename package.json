@@ -15,9 +15,9 @@
 		"index.js"
 	],
 	"devDependencies": {
-		"ava": "^2",
-		"delay": "^1.3.1",
-		"replace-in-files-cli": "^0.1.0",
+		"ava": "^3",
+		"delay": "^4.4.0",
+		"replace-in-files-cli": "^1.0.0",
 		"xo": "*"
 	}
 }
