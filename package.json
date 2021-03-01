@@ -12,7 +12,8 @@
 		"version": "replace-in-files --string='🦄' --replacement=v$npm_package_version readme.md && git add ."
 	},
 	"files": [
-		"index.js"
+		"index.js",
+		"bar"
 	],
 	"devDependencies": {
 		"ava": "^3",
