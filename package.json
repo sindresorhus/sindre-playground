@@ -8,12 +8,12 @@
 		"node": ">=0.10.0"
 	},
 	"scripts": {
-		"test": "ava",
-		"version": "replace-in-files --string='🦄' --replacement=v$npm_package_version readme.md && git add ."
+		"test": "ava"
 	},
 	"files": [
 		"index.js",
-		"bar"
+		"bar",
+		"123"
 	],
 	"devDependencies": {
 		"ava": "^3",
