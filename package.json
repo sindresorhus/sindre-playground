@@ -10,7 +10,7 @@
 		"node": ">=12"
 	},
 	"scripts": {
-		"test": "ava"
+		"test": "xo && ava"
 	},
 	"files": [
 		"index.js",
@@ -22,5 +22,11 @@
 		"delay": "^4.4.0",
 		"replace-in-files-cli": "^1.0.0",
 		"xo": "*"
+	},
+	"xo": {
+		"rules": {
+			"// Disabled because of unicorns": 0,
+			"no-empty": "off"
+		}
 	}
 }

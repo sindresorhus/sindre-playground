@@ -1,4 +1,4 @@
 'use strict';
-module.exports = true
+module.exports = true;
 
 console.log(module.exports);
