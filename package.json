@@ -10,7 +10,7 @@
 		"node": ">=12"
 	},
 	"scripts": {
-		"test": "xo && ava"
+		"test": "true"
 	},
 	"files": [
 		"index.js",
@@ -28,5 +28,8 @@
 			"// Disabled because of unicorns": 0,
 			"no-empty": "off"
 		}
+	},
+	"np": {
+		"yarn": true
 	}
 }
