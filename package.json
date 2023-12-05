@@ -4,8 +4,10 @@
 	"description": "Just me experimenting 🦄🦄",
 	"license": "MIT",
 	"repository": "sindresorhus/sindre-playground",
+	"funding": "https://github.com/sponsors/sindresorhus",
 	"type": "module",
 	"exports": "./index.js",
+	"sideEffects": false,
 	"engines": {
 		"node": ">=12"
 	},
